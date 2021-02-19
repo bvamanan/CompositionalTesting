@@ -12,10 +12,11 @@ The goal of the project is to develop a methodology, supported by tools, that us
 1. Awais Jafar (graduate student)
 2. Hamidreza Almasi 
 
-### Publications 
-1. McMillan, Kenneth L., and Lenore D. Zuck. "Formal specification and testing of QUIC." In Proceedings of the ACM Special Interest Group on Data Communication (SIGCOMM), pp. 227-240. 2019.
-2. McMillan, Kenneth L., and Lenore D. Zuck. "Compositional Testing of Internet Protocols." In 2019 IEEE Cybersecurity Development (SecDev), pp. 161-174. IEEE, 2019.
-
 ### Code
-1. [Ivy](https://github.com/microsoft/ivy)
+1. [Ivy code](https://github.com/microsoft/ivy)
+
+### Publications 
+1. McMillan, Kenneth L., and Lenore D. Zuck. "Formal specification and testing of QUIC." In Proceedings of the ACM Special Interest Group on Data Communication (SIGCOMM), pp. 227-240. 2019. [paper](https://dl.acm.org/doi/10.1145/3341302.3342087)
+2. McMillan, Kenneth L., and Lenore D. Zuck. "Compositional Testing of Internet Protocols." In 2019 IEEE Cybersecurity Development (SecDev), pp. 161-174. IEEE, 2019. [paper](https://ieeexplore.ieee.org/document/8901577)
+
 
