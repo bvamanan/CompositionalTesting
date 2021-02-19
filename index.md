@@ -5,14 +5,16 @@ The goal of the project is to develop a methodology, supported by tools, that us
 ### Team 
 **Faculty and collaborators**
 1. [Lenore Zuck](https://www.cs.uic.edu/~lenore/)
-2. [Balajee Vamanan]
-3. [Kenneth McMillan]
+2. [Balajee Vamanan](https://www.cs.uic.edu/~balajee/)
+3. [Kenneth McMillan](https://www.mcmil.net)
 
 **Current and Past Students**
 1. Awais Jafar (graduate student)
 2. Hamidreza Almasi 
 
 ### Publications 
+1. Kenneth L. McMillan and Lenore D. Zuck. 2019. Formal specification and testing of QUIC. In Proceedings of the ACM Special Interest Group on Data Communication (SIGCOMM '19).
+2. 
 
 
 
