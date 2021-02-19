@@ -4,7 +4,7 @@ The goal of the project is to develop a methodology, supported by tools, that us
 
 ### Team 
 **Faculty and collaborators**
-1. [Lenore Zuck]
+1. [Lenore Zuck](https://www.cs.uic.edu/~lenore/)
 2. [Balajee Vamanan]
 3. [Kenneth McMillan]
 
