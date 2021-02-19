@@ -13,7 +13,8 @@ The goal of the project is to develop a methodology, supported by tools, that us
 2. Hamidreza Almasi 
 
 ### Code
-1. [Ivy code](https://github.com/microsoft/ivy)
+1. Ivy repository [link](https://github.com/microsoft/ivy)
+2. Testing network proptocols with Ivy [link](http://microsoft.github.io/ivy/examples/networking.html) 
 
 ### Publications 
 1. McMillan, Kenneth L., and Lenore D. Zuck. "Formal specification and testing of QUIC." In Proceedings of the ACM Special Interest Group on Data Communication (SIGCOMM), pp. 227-240. 2019. [paper](https://dl.acm.org/doi/10.1145/3341302.3342087)
