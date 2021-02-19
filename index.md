@@ -9,7 +9,7 @@ The goal of the project is to develop a methodology, supported by tools, that us
 3. [Kenneth McMillan](https://www.mcmil.net)
 
 **Current and Past Students**
-1. Awais Jafar (graduate student)
+1. Awais Jafar
 2. Hamidreza Almasi 
 
 ### Code
