@@ -22,7 +22,7 @@ The goal of the project is to develop a methodology, supported by tools, that us
 ### Educational activities 
 CS 550: Advanced Computer Networking [link](https://catalog.uic.edu/all-course-descriptions/cs)
 
-### Other Broader Impacts 
+### Broader Impacts and Outreach 
 - We will report bugs to IETF and QUIC developers.
 - We will actively recruit under-represented minorities in the project.
 
